@@ -1,3 +1,4 @@
+langchain_community
 langchain_openai==0.0.2
 PyPDF2==3.0.1
 langchain
