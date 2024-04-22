@@ -1,6 +1,7 @@
 import os
 import streamlit as st
 from langchain_community.vectorstores import FAISS
+from langchain.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 from langchain.chains.conversational_retrieval.base import ConversationalRetrievalChain
 # from flask import Flask, render_template, request, redirect
